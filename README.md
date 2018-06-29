@@ -7,4 +7,7 @@ There are lots of tutorials and guides out there now but sometimes when you're j
 
 so here is the list of 101s which does the exact job it is meant to.
 
-* [Kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/)
+[Kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/)
+[React](https://reactjs.org/docs/hello-world.html)
+* [React Router](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
+* [React Axios : REST API calls](https://alligator.io/react/axios-react/)
