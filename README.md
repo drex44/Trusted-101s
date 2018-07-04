@@ -5,15 +5,19 @@
 
 There are lots of tutorials and guides out there now but sometimes when you're just starting to learn new technology, it is difficult to know which source is reliable. many times, we follow off topic tutorial and waste our time.
 
+There are two types of tutorials,
+* Explanation : concepts, theory, hacks, no-code etc.
+* Code : for developers who needs the example code.
+
 so here is the list of 101s which does the exact job it is meant to.
 
-[Kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/)
+[Kubernetes : explaination](https://deis.com/blog/2016/kubernetes-illustrated-guide/)
 
-[React](https://reactjs.org/docs/hello-world.html)
-* [React Router](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
-* [React Axios : REST API calls](https://alligator.io/react/axios-react/)
-* [React controling elements in Head](https://alligator.io/react/react-helmet/)
+[React : code](https://reactjs.org/docs/hello-world.html)
+* [React Router : code](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
+* [React Axios : REST API calls : code](https://alligator.io/react/axios-react/)
+* [React controling elements in Head : code](https://alligator.io/react/react-helmet/)
 
 Angular
-* [Angular Stripe Integration](https://alligator.io/angular/stripe-elements/)
-* [Angular Material Creating custom theme](https://alligator.io/angular/angular-material-custom-theme/)
+* [Angular Stripe Integration : code](https://alligator.io/angular/stripe-elements/)
+* [Angular Material Creating custom theme : code](https://alligator.io/angular/angular-material-custom-theme/)
