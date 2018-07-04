@@ -12,3 +12,8 @@ so here is the list of 101s which does the exact job it is meant to.
 [React](https://reactjs.org/docs/hello-world.html)
 * [React Router](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
 * [React Axios : REST API calls](https://alligator.io/react/axios-react/)
+* [React controling elements in Head](https://alligator.io/react/react-helmet/)
+
+Angular
+* [Angular Stripe Integration](https://alligator.io/angular/stripe-elements/)
+* [Angular Material Creating custom theme](https://alligator.io/angular/angular-material-custom-theme/)
