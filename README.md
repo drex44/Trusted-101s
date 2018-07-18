@@ -17,6 +17,7 @@ so here is the list of 101s which does the exact job it is meant to.
 * [React Router : code](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
 * [React Axios : REST API calls : code](https://alligator.io/react/axios-react/)
 * [React controling elements in Head : code](https://alligator.io/react/react-helmet/)
+* [Programmatically navigate using React Router](https://stackoverflow.com/a/42121109/5027712)
 
 Angular
 * [Angular Stripe Integration : code](https://alligator.io/angular/stripe-elements/)
