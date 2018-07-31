@@ -3,7 +3,7 @@
 
 > A curated list of 101s verified by developers. nothing more.
 
-There are lots of tutorials and guides out there now but sometimes when you're just starting to learn new technology, it is difficult to know which source is reliable. many times, we follow off topic tutorial and waste our time. so this the list of articles, you can rely on.
+There are lots of tutorials and guides out there now but sometimes when you're just starting to learn a new technology, it is difficult to know which source is reliable. Many times, we follow off-topic tutorial resulting in wasting our time. So this is the list of articles, you can rely on confidently.
 
 There are two types of tutorials,
 * Explanation : concepts, theory, hacks, no-code etc.
