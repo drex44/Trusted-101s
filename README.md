@@ -1,24 +1,30 @@
 # Trusted-101s [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 
-
 > A curated list of 101s verified by developers. nothing more.
 
 There are lots of tutorials and guides out there now but sometimes when you're just starting to learn a new technology, it is difficult to know which source is reliable. Many times, we follow off-topic tutorial resulting in wasting our time. So this is the list of articles, you can rely on confidently.
 
 There are two types of tutorials,
-* Explanation : concepts, theory, hacks, no-code etc.
-* Code : for developers who needs the example code.
 
-so here is the list of 101s which does the exact job it is meant to.
+- `Explanation` : Article with only concepts, theory, hacks, anything-not-code etc.
+- `Code` : Article has the example code.
 
-[Kubernetes : explaination](https://deis.com/blog/2016/kubernetes-illustrated-guide/)
+## 101s
 
-[React : code](https://reactjs.org/docs/hello-world.html)
-* [React Router : code](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
-* [React Axios : REST API calls : code](https://alligator.io/react/axios-react/)
-* [React controling elements in Head : code](https://alligator.io/react/react-helmet/)
-* [Programmatically navigate using React Router](https://stackoverflow.com/a/42121109/5027712)
+[Kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/) `explaination`
+
+[React](https://reactjs.org/docs/hello-world.html) `code`
+
+- [React Router](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf) `code`
+- [React Axios : REST API calls](https://alligator.io/react/axios-react) `code`
+- [React controling elements in Head](https://alligator.io/react/react-helmet) `code`
+- [Programmatically navigate using React Router](https://stackoverflow.com/a/42121109/5027712)
+- [Programmatically navigate using React Router](https://stackoverflow.com/a/42121109/5027712)
+- [Component and Containers in React](https://medium.com/@learnreact/container-components-c0e67432e005) `explaination`
+  - [Properties of components and containers](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) `explaination`
+- [Add google fonts to React](https://scotch.io/@micwanyoike/how-to-add-fonts-to-a-react-project) `code`
 
 Angular
-* [Angular Stripe Integration : code](https://alligator.io/angular/stripe-elements/)
-* [Angular Material Creating custom theme : code](https://alligator.io/angular/angular-material-custom-theme/)
+
+- [Angular Stripe Integration](https://alligator.io/angular/stripe-elements/) `code`
+- [Angular Material Creating custom theme](https://alligator.io/angular/angular-material-custom-theme) `code`
