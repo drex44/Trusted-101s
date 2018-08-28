@@ -1,4 +1,4 @@
-# Trusted-101s [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
+# Trusted-101s [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 
 > A curated list of 101s verified by developers. nothing more.
 
@@ -7,7 +7,7 @@ There are lots of tutorials and guides out there now but sometimes when you're j
 There are two types of tutorials,
 
 - `Explanation` : Article with only concepts, theory, hacks, anything-not-code etc.
-- `Code` : Article has the example code.
+- `Code` : Article has the example code and explaination.
 
 ## 101s
 
@@ -16,10 +16,10 @@ There are two types of tutorials,
 [React](https://reactjs.org/docs/hello-world.html) `code`
 
 - [React Router](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf) `code`
+  - [Add protected routes in React Router](https://tylermcginnis.com/react-router-protected-routes-authentication) `code`
+  - [Programmatically navigate using React Router](https://stackoverflow.com/a/42121109/5027712)
 - [React Axios : REST API calls](https://alligator.io/react/axios-react) `code`
 - [React controling elements in Head](https://alligator.io/react/react-helmet) `code`
-- [Programmatically navigate using React Router](https://stackoverflow.com/a/42121109/5027712)
-- [Programmatically navigate using React Router](https://stackoverflow.com/a/42121109/5027712)
 - [Component and Containers in React](https://medium.com/@learnreact/container-components-c0e67432e005) `explaination`
   - [Properties of components and containers](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) `explaination`
 - [Add google fonts to React](https://scotch.io/@micwanyoike/how-to-add-fonts-to-a-react-project) `code`
