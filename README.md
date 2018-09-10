@@ -11,20 +11,31 @@ There are two types of tutorials,
 
 ## 101s
 
-Angular
+---
+
+### Categories
+
+- [Angular](#angular)
+- [Kubernetes](#kubernetes)
+- [NextJs](#nextjs)
+- [React](#react)
+
+---
+
+### Angular
 
 - [Angular Stripe Integration](https://alligator.io/angular/stripe-elements/) `code`
 - [Angular Material Creating custom theme](https://alligator.io/angular/angular-material-custom-theme) `code`
 
-Kubernetes
+### Kubernetes
 
 - [What is kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/) `explaination`
 
-NextJs
+### NextJs
 
 - [Getting started](https://nextjs.org/learn) `code`
 
-React
+### React
 
 - [Getting started](https://reactjs.org/docs/hello-world.html) `code`
 - [React Router](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf) `code`
