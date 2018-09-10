@@ -11,10 +11,22 @@ There are two types of tutorials,
 
 ## 101s
 
-[Kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/) `explaination`
+Angular
 
-[React](https://reactjs.org/docs/hello-world.html) `code`
+- [Angular Stripe Integration](https://alligator.io/angular/stripe-elements/) `code`
+- [Angular Material Creating custom theme](https://alligator.io/angular/angular-material-custom-theme) `code`
 
+Kubernetes
+
+- [What is kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/) `explaination`
+
+NextJs
+
+- [Getting started](https://nextjs.org/learn) `code`
+
+React
+
+- [Getting started](https://reactjs.org/docs/hello-world.html) `code`
 - [React Router](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf) `code`
   - [Add protected routes in React Router](https://tylermcginnis.com/react-router-protected-routes-authentication) `code`
   - [Programmatically navigate using React Router](https://stackoverflow.com/a/42121109/5027712)
@@ -23,8 +35,3 @@ There are two types of tutorials,
 - [Component and Containers in React](https://medium.com/@learnreact/container-components-c0e67432e005) `explaination`
   - [Properties of components and containers](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) `explaination`
 - [Add google fonts to React](https://scotch.io/@micwanyoike/how-to-add-fonts-to-a-react-project) `code`
-
-Angular
-
-- [Angular Stripe Integration](https://alligator.io/angular/stripe-elements/) `code`
-- [Angular Material Creating custom theme](https://alligator.io/angular/angular-material-custom-theme) `code`
