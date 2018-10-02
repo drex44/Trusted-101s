@@ -16,6 +16,7 @@ There are two types of tutorials,
 ### Categories
 
 - [Angular](#angular)
+- [GraphQL](#graphql)
 - [Kubernetes](#kubernetes)
 - [NextJs](#nextjs)
 - [React](#react)
@@ -26,6 +27,10 @@ There are two types of tutorials,
 
 - [Angular Stripe Integration](https://alligator.io/angular/stripe-elements/) `code`
 - [Angular Material Creating custom theme](https://alligator.io/angular/angular-material-custom-theme) `code`
+
+### GraphQL
+
+- [What is GraphQl and tutorial](http://howtographql.com) `code` `explaination`
 
 ### Kubernetes
 
