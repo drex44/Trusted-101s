@@ -34,7 +34,7 @@ There are two types of tutorials,
 - [What is GraphQl and tutorial](http://howtographql.com) `code` `explaination`
 
 ### Hacking
-- [Hacker101](https://www.hacker101.com/) `Explanation`
+- [Course in Web Security and Vulnerabilities](https://www.hacker101.com/) `Explanation`
 
 ### Kubernetes
 
