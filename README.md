@@ -9,6 +9,8 @@ There are two types of tutorials,
 - `Explanation` : Article with only concepts, theory, hacks, anything-not-code etc.
 - `Code` : Article has the example code and explaination.
 
+For better view, follow this, [Trusted-101s](https://drex44.github.io/Trusted-101s)
+
 ## 101s
 
 ---
