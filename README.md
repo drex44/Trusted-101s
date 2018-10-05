@@ -53,4 +53,4 @@ There are two types of tutorials,
 - [Add google fonts to React](https://scotch.io/@micwanyoike/how-to-add-fonts-to-a-react-project) `code`
 
 ### Hacking
-- [Hacker101](https://www.hacker101.com/)
+- [Hacker101](https://www.hacker101.com/) `Explanation`
