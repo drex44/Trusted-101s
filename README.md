@@ -19,6 +19,7 @@ There are two types of tutorials,
 - [GraphQL](#graphql)
 - [Hacking](#hacking)
 - [Kubernetes](#kubernetes)
+- [Machine Learning](#machinelearning)
 - [NextJs](#nextjs)
 - [React](#react)
 
@@ -39,6 +40,10 @@ There are two types of tutorials,
 ### Kubernetes
 
 - [What is kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/) `explaination`
+
+### Machine Learning
+
+- [Implementation of ML Algorithms](https://github.com/rushter/MLAlgorithms) `code`
 
 ### NextJs
 
