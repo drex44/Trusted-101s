@@ -19,7 +19,7 @@ There are two types of tutorials,
 - [GraphQL](#graphql)
 - [Hacking](#hacking)
 - [Kubernetes](#kubernetes)
-- [Machine Learning](#machinelearning)
+- [Machine Learning](#machine-learning)
 - [NextJs](#nextjs)
 - [React](#react)
 
