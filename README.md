@@ -41,7 +41,8 @@ For better view, follow this, [Trusted-101s](https://drex44.github.io/Trusted-10
 
 ### Kubernetes
 
-- [What is kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/) `explaination`
+- [What is kubernetes by deis](https://deis.com/blog/2016/kubernetes-illustrated-guide/) `explaination`
+- [Learn Kubernetes under 3 hours](https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882) `code` `explaination`
 - [Official documentation of Minikube](https://kubernetes.io/docs/setup/minikube/) `code` `explaination`
 
 ### Machine Learning
