@@ -21,6 +21,7 @@ For better view, follow this, [Trusted-101s](https://drex44.github.io/Trusted-10
 - [GraphQL](#graphql)
 - [Hacking](#hacking)
 - [Kubernetes](#kubernetes)
+- [Machine Learning](#machine-learning)
 - [NextJs](#nextjs)
 - [React](#react)
 
@@ -42,6 +43,10 @@ For better view, follow this, [Trusted-101s](https://drex44.github.io/Trusted-10
 
 - [What is kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/) `explaination`
 - [Official documentation of Minikube](https://kubernetes.io/docs/setup/minikube/) `code` `explaination`
+
+### Machine Learning
+
+- [Implementation of ML Algorithms](https://github.com/rushter/MLAlgorithms) `code`
 
 ### NextJs
 
