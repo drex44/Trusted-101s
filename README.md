@@ -18,6 +18,7 @@ For better view, follow this, [Trusted-101s](https://drex44.github.io/Trusted-10
 ### Categories
 
 - [Angular](#angular)
+- [Git](#git)
 - [GraphQL](#graphql)
 - [Hacking](#hacking)
 - [Kubernetes](#kubernetes)
@@ -31,6 +32,9 @@ For better view, follow this, [Trusted-101s](https://drex44.github.io/Trusted-10
 
 - [Angular Stripe Integration](https://alligator.io/angular/stripe-elements/) `code`
 - [Angular Material Creating custom theme](https://alligator.io/angular/angular-material-custom-theme) `code`
+
+### Git
+- [Learn Git Branching](https://learngitbranching.js.org/) `explanation`
 
 ### GraphQL
 
